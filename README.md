@@ -13,8 +13,12 @@ This is my Fisrt Amazon Clone project built using HTML and CSS. It includes a ho
 <br>
 HTML and CSS
 <br>
-## 💡About:- This project was created as a practice for my web design learning journey.
+## 💡About:-
+<br>
+This project was created as a practice for my web design learning journey.
 <br>
 ### 👤Author
-*Nandan Kumar*  
+<br>
+*Nandan Kumar*
+<br>
 BCA Student | Frontend Learner
