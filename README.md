@@ -1,2 +1,4 @@
  # Amazon_Clone_Project
- This is a amazon clone project
+ This is my first amazon clone project
+ <br>
+ This is my first Repository
